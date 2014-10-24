@@ -48,3 +48,8 @@ LICENSE
 -------
 
 This package is released into the Public Domain. Spread it, or don't. ;)
+
+MORE INFO
+---------
+This change was done on a branch that integrated directly with Pivotaltracker. w00t.
+
